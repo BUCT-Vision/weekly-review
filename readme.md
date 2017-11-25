@@ -15,7 +15,7 @@
 **标题**：`Review-{yyyy.mm.dd(必须为当周周日的日期)}-{姓名}`
 > 例如:`Review-2017.10.26-杨磊`( 2017.10.26为周日 )
 
-**内容**：使用Markdown标记语言编辑自己这周的工作学习内容及下周的一些安排
+**内容**：使用Markdown标记语言编辑自己这周的工作学习内容及下周的安排
 
 **教程**：[Markdown教程](https://www.zybuluo.com/mdeditor?url=https://www.zybuluo.com/static/editor/md-help.markdown)
 
