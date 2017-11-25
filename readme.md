@@ -28,3 +28,4 @@
  * 学习的课程，查资料，看文献，考试，也一并算到工作和计划里面(并不须要和实验室及科研相关)
  * 阐述学习的课程或看的文献时 最好加上外链接. 比如: [cs231n](http://cs231n.stanford.edu/syllabus.html)， [A Review of Segmentation](https://arxiv.org/abs/1704.06857)
  * GitHub的issues是可以评论的, 欢迎大家多多评论别人提交的review
+ * 点击右上角的`Watch`按钮 关注`Weekly-review`的动态
